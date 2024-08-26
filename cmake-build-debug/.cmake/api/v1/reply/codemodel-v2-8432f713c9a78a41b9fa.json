@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/11057/CLionProjects/Freezer/cmake-build-debug",
-		"source" : "C:/Users/11057/CLionProjects/Freezer"
+		"build" : "E:/MyCodeProjects/Freezer/cmake-build-debug",
+		"source" : "E:/MyCodeProjects/Freezer"
 	},
 	"version" : 
 	{
